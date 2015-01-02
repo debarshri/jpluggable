@@ -1,0 +1,3 @@
+plugin/PluginManager.class
+plugin/Plugin.class
+registry/Scheduler.class
